@@ -1,6 +1,6 @@
 package com.ppk;
 
-public class Main {
+public class HelloWorld {
 
     public static void main(String[] args) {
         // write your code here
@@ -9,5 +9,7 @@ public class Main {
 
     }
 
-    public static void addTwoNumbers(){System.out.print(2+3);}
+    public static void addTwoNumbers() {
+        System.out.print(2 + 3);
+    }
 }
